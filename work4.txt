@@ -1,3 +1,5 @@
 444
 conflict ex2
 enter pallete
+conflict 111111
+conflict ex2
